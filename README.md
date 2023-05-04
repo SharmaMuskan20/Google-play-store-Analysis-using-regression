@@ -9,9 +9,13 @@ Data Dictionary:
 
 Variables |	Description
 App	- Application name
+
 Category	- Category to which the app belongs
+
 Rating -	Overall user rating of the app
+
 Reviews	- Number of user reviews for the app
+
 Size	- Size of the app
 Installs	- Number of user downloads/installs for the app
 Type	- Paid or Free
